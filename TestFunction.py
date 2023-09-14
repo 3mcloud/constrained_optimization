@@ -217,7 +217,7 @@ class TestFunction(object):
                 if val >= val_cons:
                     delta = 0.0
             else:
-                assert False # just break it
+                assert False # just break it and try to fix issue
             cons_dist.append(delta)
 
         return cons_dist
@@ -248,6 +248,7 @@ class TestFunction(object):
     def optimal_value(self):
         return self._func.best_val
 
+# END TestFunction
 #-------------------------------------------------------------
 
         
