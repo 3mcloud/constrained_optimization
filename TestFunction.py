@@ -1,3 +1,16 @@
+# Y. Elia Altabet
+# Jingyi Guo
+#
+# Corporate Systems Research Lab, 3M Company
+#
+# TestFunction.py
+#
+# This file constains the TestFunction class, which takes on the identity
+# of a given test function from the benchmark when initialized with the 
+# appropriate key
+# ------------------------------------------------------------------------
+
+import sys
 
 from .test_functions.NewBranin import NewBranin
 from .test_functions.Mystery import Mystery
@@ -119,8 +132,12 @@ FuncDict.update(HockDict)
 class TestFunction(object):
 
     def __init__(self, func_key):
-        self._func = FuncDict[func_key]()
-
+        try:
+            self._func = FuncDict[func_key]()
+        except:
+            print(f"'{func_key}' is not a valid test function key")
+            print('exiting program...')
+            sys.exit()
     #-------------------------------------------------------------
 
     def evaluate(self, x_list):
@@ -250,5 +267,3 @@ class TestFunction(object):
 
 # END TestFunction
 #-------------------------------------------------------------
-
-        
