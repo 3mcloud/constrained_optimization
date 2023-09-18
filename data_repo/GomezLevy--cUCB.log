@@ -1,0 +1,200 @@
+7 0.965805 6.380586
+7 1.009252 2.168996
+7 1.008134 2.277384
+7 0.972845 5.698093
+7 0.949317 7.978779
+7 0.947596 8.145654
+7 0.941699 8.717226
+7 0.938963 8.982398
+7 0.954824 7.444982
+8 1.018182 1.303377
+8 0.978008 5.197660
+8 1.024435 0.697271
+8 1.003611 2.715821
+8 0.952973 7.624388
+7 0.999077 3.155394
+9 0.970799 5.896417
+9 1.027325 0.417178
+9 0.934926 9.373765
+9 0.992179 3.823964
+8 0.985570 4.464633
+10 0.952975 7.624197
+7 0.937421 9.131912
+9 0.945255 8.372570
+7 1.024443 0.696482
+9 1.018377 1.284486
+8 0.961500 6.797801
+7 0.974350 5.552258
+11 0.941618 8.725071
+11 0.930835 9.770337
+11 0.948655 8.042971
+11 0.936534 9.217863
+11 0.929789 9.871686
+10 1.001990 2.873012
+11 0.988677 4.163446
+11 0.948037 8.102818
+9 0.973799 5.605624
+7 0.977185 5.277463
+12 0.929860 9.864816
+12 0.931447 9.710997
+7 0.935516 9.316530
+12 0.931143 9.740426
+11 0.947158 8.188047
+11 0.937953 9.080321
+12 0.930893 9.764739
+11 0.937695 9.105351
+8 0.983333 4.681473
+13 0.956028 7.328261
+13 0.935247 9.342695
+8 1.028420 0.311008
+14 0.980677 4.938970
+15 0.957627 7.173301
+10 1.029336 0.222199
+14 0.934353 9.429346
+7 0.982125 4.798570
+14 0.935893 9.280003
+13 0.933700 9.492615
+9 0.984689 4.550068
+15 0.960470 6.897689
+16 0.967782 6.188870
+13 0.944848 8.411988
+12 0.961850 6.763962
+17 0.929876 9.863329
+13 0.957163 7.218224
+9 0.950195 7.893668
+15 0.930505 9.802293
+12 0.933384 9.523201
+12 0.947044 8.199073
+failed to find solution after reaching max emtpy limit -- 14 iterations and 8 function evals
+14 0.931012 9.753142
+14 0.932243 9.633803
+17 0.939212 8.958314
+17 0.979053 5.096375
+13 0.939759 8.905267
+failed to find solution after reaching max emtpy limit -- 17 iterations and 11 function evals
+24 0.962693 6.682195
+9 1.003594 2.717529
+20 0.936728 9.199067
+18 0.939648 8.916034
+9 0.956103 7.320985
+failed to find solution after reaching max emtpy limit -- 18 iterations and 12 function evals
+7 0.945034 8.393949
+12 0.936913 9.181124
+10 0.956016 7.329447
+14 1.010863 2.012846
+16 0.965797 6.381345
+8 0.932442 9.614515
+failed to find solution after reaching max emtpy limit -- 19 iterations and 13 function evals
+15 0.959807 6.961985
+8 0.980047 4.999998
+failed to find solution after reaching max emtpy limit -- 18 iterations and 12 function evals
+failed to find solution after reaching max emtpy limit -- 14 iterations and 8 function evals
+failed to find solution after reaching max emtpy limit -- 20 iterations and 14 function evals
+failed to find solution after reaching max emtpy limit -- 20 iterations and 14 function evals
+14 0.941630 8.723889
+failed to find solution after reaching max emtpy limit -- 20 iterations and 14 function evals
+7 1.025099 0.632907
+12 0.978777 5.123073
+failed to find solution after reaching max emtpy limit -- 20 iterations and 14 function evals
+11 0.930356 9.816712
+19 0.956674 7.265628
+7 1.029729 0.184092
+9 0.955627 7.367089
+21 0.933163 9.544694
+14 0.946442 8.257483
+failed to find solution after reaching max emtpy limit -- 19 iterations and 13 function evals
+10 0.974761 5.512390
+10 0.994516 3.597460
+13 0.939911 8.890540
+failed to find solution after reaching max emtpy limit -- 20 iterations and 14 function evals
+20 0.959637 6.978410
+11 0.977801 5.217734
+11 0.931509 9.704980
+13 0.953841 7.540271
+21 0.948987 8.010806
+failed to find solution after reaching max emtpy limit -- 17 iterations and 11 function evals
+failed to find solution after reaching max emtpy limit -- 22 iterations and 16 function evals
+11 1.014997 1.612122
+11 0.990864 3.951476
+12 0.951812 7.736985
+25 1.020928 1.037249
+10 0.954417 7.484399
+failed to find solution after reaching max emtpy limit -- 22 iterations and 16 function evals
+7 0.950002 7.912380
+7 0.984176 4.599772
+failed to find solution after reaching max emtpy limit -- 26 iterations and 18 function evals
+17 0.953619 7.561819
+14 0.953396 7.583360
+10 1.025006 0.641967
+30 0.932681 9.591374
+11 0.955367 7.392365
+8 1.004783 2.602243
+failed to find solution after reaching max emtpy limit -- 30 iterations and 15 function evals
+7 1.027148 0.434266
+failed to find solution after reaching max emtpy limit -- 25 iterations and 15 function evals
+11 0.935562 9.312156
+8 0.999197 3.143699
+7 1.022994 0.836948
+15 0.948379 8.069692
+11 0.939667 8.914162
+9 0.993317 3.713691
+17 0.937615 9.113136
+failed to find solution after reaching max emtpy limit -- 21 iterations and 15 function evals
+13 0.947368 8.167702
+failed to find solution after reaching max emtpy limit -- 13 iterations and 7 function evals
+8 0.959465 6.995062
+7 0.950867 7.828580
+12 0.933971 9.466337
+8 0.958888 7.051025
+8 1.015352 1.577723
+36 0.995359 3.515729
+7 0.983427 4.672340
+12 0.962506 6.700318
+13 0.931707 9.685822
+7 0.952591 7.661424
+11 0.946452 8.256483
+failed to find solution after reaching max emtpy limit -- 21 iterations and 15 function evals
+8 0.961515 6.796343
+failed to find solution after reaching max emtpy limit -- 16 iterations and 10 function evals
+17 0.963018 6.650672
+failed to find solution after reaching max emtpy limit -- 24 iterations and 15 function evals
+12 0.933836 9.479424
+10 0.933046 9.555994
+16 0.980422 4.963664
+failed to find solution after reaching max emtpy limit -- 19 iterations and 13 function evals
+11 0.979869 5.017241
+failed to find solution after reaching max emtpy limit -- 35 iterations and 20 function evals
+failed to find solution after reaching max emtpy limit -- 19 iterations and 13 function evals
+failed to find solution after reaching max emtpy limit -- 20 iterations and 13 function evals
+13 0.962189 6.731043
+16 0.957309 7.204059
+42 0.929060 9.942401
+18 0.956052 7.325939
+22 0.966408 6.322059
+failed to find solution after reaching max emtpy limit -- 24 iterations and 18 function evals
+failed to find solution after reaching max emtpy limit -- 13 iterations and 7 function evals
+27 0.962071 6.742479
+failed to find solution after reaching max emtpy limit -- 19 iterations and 13 function evals
+failed to find solution after reaching max emtpy limit -- 19 iterations and 13 function evals
+16 0.975501 5.440652
+failed to find solution after reaching max emtpy limit -- 25 iterations and 19 function evals
+failed to find solution after reaching max emtpy limit -- 29 iterations and 14 function evals
+failed to find solution after reaching max emtpy limit -- 31 iterations and 18 function evals
+25 0.954273 7.498364
+22 0.948446 8.063214
+failed to find solution after reaching max emtpy limit -- 45 iterations and 26 function evals
+failed to find solution after reaching max emtpy limit -- 28 iterations and 19 function evals
+failed to find solution after reaching max emtpy limit -- 22 iterations and 12 function evals
+failed to find solution after reaching max emtpy limit -- 26 iterations and 15 function evals
+failed to find solution after reaching max emtpy limit -- 26 iterations and 14 function evals
+22 1.008471 2.244761
+failed to find solution after reaching max emtpy limit -- 39 iterations and 20 function evals
+failed to find solution after reaching max emtpy limit -- 28 iterations and 18 function evals
+failed to find solution after reaching max emtpy limit -- 54 iterations and 23 function evals
+failed to find solution after reaching max emtpy limit -- 27 iterations and 21 function evals
+failed to find solution after reaching max emtpy limit -- 53 iterations and 18 function evals
+failed to find solution after reaching max emtpy limit -- 59 iterations and 23 function evals
+failed to find solution after reaching max emtpy limit -- 46 iterations and 19 function evals
+22 0.940385 8.844581
+failed to find solution after reaching max emtpy limit -- 62 iterations and 20 function evals
+failed to find solution after reaching max emtpy limit -- 72 iterations and 29 function evals
